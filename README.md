@@ -1,2 +1,2 @@
-# HackerRankCodeSamples
-My sample code structure for HackerRank 30 days tutorials 
+# CodeSamples
+My sample code structure for tutrial on a popular website. 
