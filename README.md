@@ -1,2 +1,2 @@
 # CodeSamples
-My sample code structure for tutrial on a popular website. 
+My Code samples from tutorials on a popular website.
